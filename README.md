@@ -28,9 +28,9 @@ To allowed Keys in Accesses Local Storage
 https://www.w3schools.com/html/html5_webstorage.asp
 
 ### Setup
-| Action | Description| Requirements| Output
+| Action | Description| Requirements| Success
 | ------------- | ------------- | ------------- | ------------- |
-| Set  | Allow you to stock key/value in Local Storage | Requires write access for the key | Returns true if successful. |
-| Get  | Allow you to get value of a key in Local Storage | Requires read access for the key | Returns null if the key does not exist |
-| Remove  | Allow you to delete an item key/value in Local Storage | Requires write access for the key | Return 'removed' |
-| Check  | Allow you to check if a value is already present in Local Storage | Requires write access for the key | Return a dataLayer push with alreadyInLocalStorage if the value of the key if already stocked in Local Storage. |
+| Set  | Allow you to stock key/value in Local Storage | Requires write access for the key | item set in Local Storage |
+| Get  | Allow you to get value of a key in Local Storage | Requires read access for the key | item get from Local Storage |
+| Remove  | Allow you to delete an item key/value in Local Storage | Requires write access for the key | item removed from Local Storage |
+| Check  | Allow you to check if a value is already present in Local Storage | Requires write access for the key | Return a dataLayer push with "alreadyInLocalStorage" if the value of the key if already stocked in Local Storage. |
