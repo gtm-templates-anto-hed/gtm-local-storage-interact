@@ -5,12 +5,12 @@ A new Google Tag Manager template to manage items on Local Storage
 This template allows you to easily interact with the Local Storage, set, get, remove or check if an item is present!
 
 ### Specification
-For set a Local Storage Item, You must allow the Accesses Local Storage by specifying the settings in the permission tab. The name of the key in Local Storage must be exact to the name used in the field Key. More information: https://developers.google.com/tag-manager/templates/permissions#set_cookies
+To interact with the Local Storage, You must allow the Accesses Local Storage by specifying the settings in the permission tab. The name of the key in Local Storage must be exact to the name used in the field Key. More information: https://developers.google.com/tag-manager/templates/permissions#set_cookies
 
 To allowed Keys in Accesses Local Storage
 
 
-1 - On GTM//
+1 - On GTM
 
 2 - Click on : Templates
 
