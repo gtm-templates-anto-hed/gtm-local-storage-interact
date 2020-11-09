@@ -34,3 +34,5 @@ https://www.w3schools.com/html/html5_webstorage.asp
 | Get  | Allow you to get value of a key in Local Storage | Requires read access for the key | item get from Local Storage |
 | Remove  | Allow you to delete an item key/value in Local Storage | Requires write access for the key | item removed from Local Storage |
 | Check  | Allow you to check if a value is already present in Local Storage | Requires write access for the key | Return a dataLayer push with "alreadyInLocalStorage" if the value of the key if already stocked in Local Storage. |
+
+More information: https://github.com/gtm-templates-anto-hed/local-storage-interact
