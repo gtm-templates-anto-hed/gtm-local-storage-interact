@@ -7,6 +7,8 @@ This template allows you to easily interact with the Local Storage, set, get, re
 ### Specification
 To interact with the Local Storage, You must allow the Accesses Local Storage by specifying the settings in the permission tab. The name of the key in Local Storage must be exact to the name used in the field Key. More information: https://developers.google.com/tag-manager/templates/permissions#set_cookies
 
+In Google Tag Manager, Click on Templates and Search Gallery and search the tag : Local Storage Interact  
+
 To allowed Keys in Accesses Local Storage
 
 
